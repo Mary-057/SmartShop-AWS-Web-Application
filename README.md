@@ -12,6 +12,6 @@
 Created security group with inbound rule to allow SSH and HTTP traffic
 ![Security_group](/Security_Group.png)
 #### Launched EC2 instance
-![EC2 instance](/EC2instance.png)
+![EC2_instance](/EC2_instance.png)
 Deployed Apache web server to the instance
 ![Apache](/Apache.png)
